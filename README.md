@@ -58,14 +58,8 @@ The RADAR Project is focused on developing and testing Advanced Driver Assistanc
 ---
 
  
-## **BSW COM Module** – Understanding and implementing communication protocols.  
-## **BSW FM (Fault Management)** – Managing Diagnostic Trouble Codes (DTCs) and Event Counters.  
-
-### 2. **ASW (Application Software) Modules**  
-- **Adaptive Cruise Control (ACC)** – State machine implementation and testing.  
-- **ACC States and APC/SOC Conditions** – Handling transitions and safety checks.  
-
----
+## **BSW COM Module** 
+– Understanding and implementing communication protocols.  
 
 ## **Automation and Network Management**  
 ### 1. **Automation**  
@@ -76,11 +70,17 @@ The RADAR Project is focused on developing and testing Advanced Driver Assistanc
 ### 2. **Network Management (NM)**  
 - **NM State Diagram and Requirements** – Understanding state transitions and signal requirements.  
 
----
-
-## **Calibration and Signal Validation**  
-- **Calibration Protocol** – Understanding the process of parameter tuning and calibration.  
+### 3. **Calibration and Signal Validation**  
+- **Calibration Protocol** – Understanding the parameter tuning and calibration process.  
 - **A2L and A2L Loading** – Managing calibration files and validating signal values.  
+
+---
+## **BSW FM (Fault Management)** 
+– Managing Diagnostic Trouble Codes (DTCs) and Event Counters.  
+
+### 2. **ASW (Application Software) Modules**  
+- **Adaptive Cruise Control (ACC)** – State machine implementation and testing.  
+- **ACC States and APC/SOC Conditions** – Handling transitions and safety checks.  
 
 ---
 
