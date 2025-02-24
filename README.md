@@ -39,8 +39,8 @@ The RADAR Project is focused on developing and testing Advanced Driver Assistanc
 ## **BSW and ASW Modules**  
 
 ### 1. **BSW (Basic Software) Modules** 
-- **BSW CD Module**
-## **Testing and Validation**  
+## **BSW CD Module**
+  
 ### 1. **10 SID Requirement Analysis and Testing**  
 - Requirement analysis, test case design, execution, and reporting for 10 SID functionalities.  
 
@@ -58,8 +58,8 @@ The RADAR Project is focused on developing and testing Advanced Driver Assistanc
 ---
 
  
-- **BSW COM Module** – Understanding and implementing communication protocols.  
-- **BSW FM (Fault Management)** – Managing Diagnostic Trouble Codes (DTCs) and Event Counters.  
+## **BSW COM Module** – Understanding and implementing communication protocols.  
+## **BSW FM (Fault Management)** – Managing Diagnostic Trouble Codes (DTCs) and Event Counters.  
 
 ### 2. **ASW (Application Software) Modules**  
 - **Adaptive Cruise Control (ACC)** – State machine implementation and testing.  
