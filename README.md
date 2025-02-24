@@ -76,8 +76,11 @@ The RADAR Project is focused on developing and testing Advanced Driver Assistanc
 
 ---
 ## **BSW FM (Fault Management)** 
-– Managing Diagnostic Trouble Codes (DTCs) and Event Counters.  
+ - Managing Diagnostic Trouble Codes (DTCs) and Event Counters.
+ - DTC Event Handling and DTC Masking
+ - Dependent DTC
 
+---
 ### 2. **ASW (Application Software) Modules**  
 - **Adaptive Cruise Control (ACC)** – State machine implementation and testing.  
 - **ACC States and APC/SOC Conditions** – Handling transitions and safety checks.  
